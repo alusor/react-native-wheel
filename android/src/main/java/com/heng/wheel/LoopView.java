@@ -1,4 +1,4 @@
-﻿package com.heng.wheel;
+package com.heng.wheel;
 
 import android.content.Context;
 import android.graphics.Canvas;
